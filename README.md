@@ -47,8 +47,8 @@ Install the dependencies for both the backend and frontend
         cd frontend
         npm start
 
-![Screenshot 1]([https://github.com/MaansiBisht/MERnMart/blob/main/projfrontend/screenshots/Screenshot1.png])
+![Screenshot 1](https://github.com/MaansiBisht/MERnMart/blob/main/projfrontend/screenshots/Screenshot1.png)
 
 ![Screenshot 2](https://github.com/MaansiBisht/MERnMart/blob/main/projfrontend/screenshots/Screenshot2.png)
 
-![Screenshot 3]([https://github.com/MaansiBisht/MERnMart/blob/main/projfrontend/screenshots/Screenshot3.png])
+![Screenshot 3](https://github.com/MaansiBisht/MERnMart/blob/main/projfrontend/screenshots/Screenshot3.png)
