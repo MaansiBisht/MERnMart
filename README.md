@@ -46,3 +46,9 @@ Install the dependencies for both the backend and frontend
     Frontend server:
         cd frontend
         npm start
+
+![Screenshot 1](https://github.com/MaansiBisht/Production-ready-react-app/blob/master/screenshots/Screenshot1.png)
+
+![Screenshot 2](https://github.com/MaansiBisht/Production-ready-react-app/blob/master/screenshots/Screenshot2.png)
+
+![Screenshot 3](https://github.com/MaansiBisht/Production-ready-react-app/blob/master/screenshots/Screenshot3.png)
